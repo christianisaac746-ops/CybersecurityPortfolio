@@ -1,0 +1,1 @@
+This document is a Lab I completed for WGU for the D829 Digital Forensics in Cybersecurity Course. I was presented an incident and had to extract deleted files, analyze system event logs, recover browser activity artifacts, and generate a forensic report.
