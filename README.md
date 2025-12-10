@@ -20,4 +20,52 @@ Generate a forensic report detailing the findings.
 B. Tools and Methodology
 The investigation adhered strictly to the industry-standard forensic process (Preparation, Collection, Examination, Analysis, and Reporting).
 
+<img width="686" height="356" alt="Image" src="https://github.com/user-attachments/assets/91de5292-a3e3-4b9b-94d4-05b15e01f97a" />
+
+🏛️ II. Legal and Regulatory Framework
+The investigation was governed by a comprehensive framework of local laws, industry standards, and company policies to ensure the evidence gathering process was lawful, ethical, and forensically sound.
+
+A. Applicable Laws and Regulations
+The investigation is mandated to comply with several categories of legislation, depending on the nature of the compromised data:
+
+
+Data Protection Regulations: General Data Protection Regulation (GDPR) or California Consumer Privacy Act (CCPA) if Personally Identifiable Information (PII) is involved.
+
+
+
+
+Sector-Specific Laws: Health Insurance Portability and Accountability Act (HIPAA) for Protected Health Information (PHI) or Gramm-Leach-Bliley Act (GLBA) for financial consumer data.
+
+
+
+Financial Reporting: Sarbanes-Oxley Act (SOX) if ABC Tech is a publicly listed corporation, to maintain the trustworthiness of financial data.
+
+
+B. Industry Standards
+The analysis aligned with global industry standards for technical soundness and defensibility:
+
+
+NIST Special Publication (SP) 800-86: Provides recommendations for integrating forensic analysis into overall organizational incident response.
+
+
+
+ISO/IEC 27043:2015: Outlines principles and procedures for investigating incidents and handling evidence to maintain consistency and legal correctness.
+
+
+C. Organizational Policies
+Internal company documentation provided the legal authority and guidelines:
+
+
+Incident Response Plan (IRP): Formal authorization for the probe and details for the stages of containment, eradication, and recovery.
+
+
+Acceptable Use Policy (AUP): Provided the legal basis for searching the employee's company-owned workstation, which is subject to monitoring.
+
+
+Data Retention and Handling Policies: Guided the classification of compromised data and established the mandatory secure methodology for retaining the evidence.
+
+💾 III. Evidence Collection and Artifact Recovery
+The forensic image (wgu_scenario.001) was loaded into Autopsy and FTK Imager. All analysis was conducted on the forensic working copies (least disturbance principle).
+
+The following critical digital artifacts were successfully extracted to the Desktop:
 
